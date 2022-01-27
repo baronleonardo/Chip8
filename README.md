@@ -3,7 +3,7 @@
 
 Inspired by https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator
 
-![BLINKY]("imgs/2022-01-27-162427_630x310_scrot.png")
+![BLINKY](imgs/2022-01-27-162427_630x310_scrot.png)
 
 ---
 
